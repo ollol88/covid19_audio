@@ -1,7 +1,13 @@
 # covid19_audio
-We extracted audio files from subjects tested for COVID-19 on the web. We want this to be the first step to provide the machine learning community enough training to develop an algorithm to pre-screen potential cases of COVID-19. 
 
-Leveraging microphones already available on a common smartphone could help in pre-screening who is to be tested and who not, several times a day, remotely. This would massively optimize testing operations.
+This is a collection of soundtracks extracted from videos available on the web. It unites short fragments of speech attributed either to subjects tested positive for COVID-19 or random people considered healthy. 
+
+The data is intended to provide ML and AI communities with the first training set to be used in developing algorithms based on sound data for pre-screening of potential COVID-19 cases.
+
+We hope this is to be the first step that will permit us to proof that sounds produced by humans can be enough to discriminate between healthy and unhealthy cases. Success of this step will allow to attract enough interest and attention and consequently collect more targeted data of a better quality.
+
+We hypothesize that easy-anonymizable sounds of human breath and fake cough can be sufficient for high accuracy detection of respiratory problems indicative of flu-like infections, including COVID-19. Moreover, the data collection once established will be effortless since microphones and sound recording apps already available on common smartphone will be sufficient data collection.
+
 
 https://drive.google.com/open?id=1Bp9IPmj1UlEGshYVTWeGUB-01nz6fh0E
 
@@ -17,7 +23,7 @@ https://drive.google.com/open?id=1Bp9IPmj1UlEGshYVTWeGUB-01nz6fh0E
 
 --LINKS file                 ->references to the original videos from which the audio has been extracted.
 
-## Audio files name
+## Structure of audio files name
 
 In order:
 
