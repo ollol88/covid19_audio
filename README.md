@@ -6,21 +6,33 @@ Leveraging microphones already available on a common smartphone could help in pr
 # DATA
 ## Structure of the database
 --POSITIVE folder      -> audio of patients tested as positive to COVID-19
+
 --NEGATIVE folder     ->audio of patients tested as negative to COVID-19
+
 --CONTROL               ->audio selected as controls. old audio files (pre covid-19). built 
                                        keeping into consideration characteristics of the speaker and the 
                                        audio quality.
+
 --LINKS file                 ->references to the original videos from which the audio have been  
                                        taken.
 ## Audio files
+
 In order:
+
 unique id for the audio
+
 f/m -> gender
+
 age group -> 0: 0-20, 1: 20-40, 2: 40-60, 3: 60+
+
 reference -> if one person is recorded in multiple audio
+
 country of origin (prefix)
+
 language of the audio
+
 result to covid-19 test: 0: negative, 1: positive
+
 severity -> 0 → if negative to covid-19; 1→ positive without symptoms, 2 → positive with    
                symptoms (not hospitalized), 3→ in the hospital or require hospitalization,
                9 → we don’t have information about the severity of the disease
@@ -29,12 +41,19 @@ severity -> 0 → if negative to covid-19; 1→ positive without symptoms, 2 →
     1_f_1_0_1_eng_1_1.wav
 
 this is the first video -> id=1
+
 gender -> f: female
+
 age group -> 20-40
+
 reference -> 0: this is the first audio of that person
+
 country of origin -> 1: USA
+
 language -> eng english
+
 result to codid test: 1 -> positive
+
 severity -> positive without symptoms
 
 ### Legend:
