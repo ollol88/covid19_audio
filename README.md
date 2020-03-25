@@ -15,8 +15,8 @@ https://drive.google.com/open?id=1Bp9IPmj1UlEGshYVTWeGUB-01nz6fh0E
                                        keeping into consideration characteristics of the speaker and the 
                                        audio quality.
 
---LINKS file                 ->references to the original videos from which the audio have been  
-                                       taken.
+--LINKS file                 ->references to the original videos from which the audio has been extracted.
+
 ## Audio files
 
 In order:
