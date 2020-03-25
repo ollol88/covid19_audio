@@ -3,6 +3,8 @@ We extracted audio files from subjects tested for COVID-19 on the web. We want t
 
 Leveraging microphones already available on a common smartphone could help in pre-screening who is to be tested and who not, several times a day, remotely. This would massively optimize testing operations.
 
+https://drive.google.com/open?id=1Bp9IPmj1UlEGshYVTWeGUB-01nz6fh0E
+
 # DATA
 ## Structure of the database
 --POSITIVE folder      -> audio of patients tested as positive to COVID-19
